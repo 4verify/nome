@@ -24,7 +24,7 @@
 
 <div style="text-align: center; margin: 30px 0;">
   <img
-    src="https://i.postimg.cc/5NQYQJQZ/sample-preview.webp"
+    src="https://i.postimg.cc/nhLHnGDJ/gsagasgasga.webp"
     alt="Demo Showcase"
     style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);"
   >
